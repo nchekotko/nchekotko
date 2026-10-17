@@ -15,7 +15,7 @@ Currently competing on **Kaggle**, **Codabench**, **FrontierOR** and **AI Journe
 | Competition | Work | Best verified public result | Snapshot |
 | --- | --- | --- | --- |
 | [Fusion Equilibrium Challenge](https://fusion-equilibrium-challenge.sophelio.io/) · Codabench | CPU equilibrium reconstruction, PCA + gradient boosting | **0.949896**, DIII-D Development score | 16 Oct 2026 |
-| [AI Journey: Coordination Referee](https://dsworks.ru/champ/aij26-referee/leaderboard?limit=100&page=2) | Multi-agent coordination diagnosis and fault localization | **0.75362**, public rank **112** | 16 Oct 2026 |
+| [AI Journey: Coordination Referee](https://dsworks.ru/champ/aij26-referee/leaderboard?limit=100&page=2) | Multi-agent coordination diagnosis and fault localization | **0.75362**, public rank **121** | 18 Oct 2026 |
 | [FrontierOR Challenge](https://frontieror-challenge.com/) | CPU solvers for six operations research tasks | **0.6918**, Testing score | 16 Oct 2026 |
 | [Name That LLM](https://www.kaggle.com/competitions/name-that-llm) · Kaggle | Prompt-group validation, text features and classification | **0.337**, public balanced accuracy | 16 Oct 2026 |
 | [Gemma 4 Developer Agent](https://www.kaggle.com/competitions/gemma-4-developer-agent) · Kaggle | Compiled agent submission and end-to-end evaluation | **0.10**, public score | 17 Oct 2026 |
