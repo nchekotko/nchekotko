@@ -1,3 +1,25 @@
+# Nikolay Chekotko
+
+I build Python tools for market-data research, backend services, and optimization. My projects connect data collection and analysis with APIs, reproducible experiments, and user-facing applications.
+
+## Selected projects
+
+| Project | What it does | Technical focus |
+| --- | --- | --- |
+| [Signal Lab](https://github.com/nchekotko/multi-llm-research) | Local research console for MOEX futures: data collection, hypothesis tracking, and backtesting. | Python, FastAPI, reproducible research, execution assumptions. |
+| [Geoscan Fleet Planner](https://github.com/nchekotko/geoscan-fleet-planner) | UAV fleet mission planning with battery, terrain, and airspace constraints; built for the Geoscan hackathon task. | Python, optimization, geospatial data, React / TypeScript. |
+| [Payments Service](https://github.com/nchekotko/payments-service) | Asynchronous payment-processing demo with an emulated gateway and webhook delivery. | FastAPI, PostgreSQL, RabbitMQ, transactional outbox, retries. |
+
+## How I work
+
+- Matched baselines, group-aware validation, and explicit checks for data leakage.
+- Reproducible packages and experiments with explicit CPU and RAM limits.
+- Documented assumptions and limitations; local validation kept separate from public leaderboard results.
+
+## Competition work
+
+The snapshots below record work in machine learning, agent evaluation, and optimization. They provide dated context rather than a single ranking of these projects.
+
 <!-- competition-results:start -->
 
 | Competition | Work | Best verified public result | Snapshot |
@@ -11,22 +33,4 @@
 
 These are dated public/development results, not final prize standings. Scores use different metrics and are not comparable across competitions. Fusion covers DIII-D only; SimulacraBench development feedback is privacy-noised. AI Journey team: `rempel71812260`.
 
-<!-- competition-results:end -->lacraBench](https://simulacrabench.org/) · Codabench | Conditional survey prediction | **0.51**, v3 Development score | 17 Oct 2026 |
-
-These are dated public/development results, not final prize standings. Scores use different metrics and are not comparable across competitions. Fusion covers DIII-D only; SimulacraBench development feedback is privacy-noised. AI Journey team: `rempel71812260`.
-
 <!-- competition-results:end -->
-
-## How I work
-
-- Matched baselines, group-aware validation and explicit checks for leakage.
-- Frozen artifacts, reproducible packages and bounded CPU/RAM experiments.
-- Official leaderboard results tracked separately from local validation.
-
-## Selected public projects
-
-- [Geoscan Fleet Planner](https://github.com/nchekotko/geoscan-fleet-planner) — UAV fleet mission planning; Leaders of Digital Transformation 2026 / Geoscan task.
-- [Prediction Markets Monitor](https://github.com/nchekotko/prediction-markets-monitor) — read-only market data collection, mapping, replay and backtesting tools.
-- [Payments Service](https://github.com/nchekotko/payments-service) — asynchronous payment-processing service with FastAPI, PostgreSQL and RabbitMQ.
-
-**Focus:** Python · machine learning · NLP · agent systems · optimization · quantitative tooling.
